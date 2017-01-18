@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata minClientVersion="3.3.0">
-        <id>LibLog</id>
+        <id>Loqu8.LibLog</id>
         <version>4.2.6</version>
-        <authors>Damian Hickey</authors>
+        <authors>Damian Hickey, Tim Uy</authors>
         <owners>Damian Hickey</owners>
         <licenseUrl>https://github.com/damianh/LibLog/blob/master/licence.txt</licenseUrl>
         <projectUrl>https://github.com/damianh/LibLog</projectUrl>
